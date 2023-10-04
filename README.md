@@ -1,7 +1,4 @@
 # RL_Workshop
-Robotics Society Reinforcement Machine Learning Workshop
-
-
 Welcome to the Reinforcement Learning Workshop brought to you by the Robotics Society! 
 
 In this workshop, you will dive into the exciting world of reinforcement learning (RL) and gain hands-on experience by implementing RL agents for two classic examples: CartPole and Frozen Lake, using the OpenAI Gym toolkit.
