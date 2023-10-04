@@ -5,6 +5,7 @@ Welcome to the Reinforcement Learning Workshop brought to you by the Robotics So
 In this workshop, you will dive into the exciting world of reinforcement learning (RL) and gain hands-on experience by implementing RL agents for two classic examples: CartPole and Frozen Lake, using the OpenAI Gym toolkit.
 
 Here's some additional information on these examples:
+
 Cartpole: https://gymnasium.farama.org/environments/classic_control/cart_pole/
 Frozen Lake: https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
